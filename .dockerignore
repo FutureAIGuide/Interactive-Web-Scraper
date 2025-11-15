@@ -1,0 +1,32 @@
+# Docker files
+Dockerfile
+.dockerignore
+
+# Git files
+.git/
+.gitignore
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Test reports
+.pytest_cache/
+.coverage
+
+# VS Code settings
+.vscode/
+
+# Scraped data
+*.csv
+*.json
+*.xlsx
+*.db
